@@ -17,6 +17,7 @@ The set-up for this project was relatively straightforward. Firstly I imported t
 ### **Template Code**
 VGA uses a 15-pin D-subminiature connector arranged in three rows of five pins. It supports RGB analog signals, horizontal sync (HSYNC), and vertical sync (VSYNC). The colours within the colourCycle design were programmed in 4-bit binary code. For example the colour 
 Red = R=1111, G=0000, B=0000. 
+
 The first code template I used was the colourCycle design. This design encompasses the full 640x480 pixel screen to display a solid colour which transitions into another colour, if programmed right. In this specific design, the clock frequency was set to change the colour of the display every 
 250 milliseconds. I set the clocks prescaler in the clock wizard within the design sources. This design was simulated using Testbench. After connecting the Basys3
 board to my monitor using a vga cable, I ran implementation and connected to the device within the hardware manager. After the Basys3 board was connected to the monitor, I programmed the board and viwed the following video on the screen. I have enclosed a link to a video demonstration of my ColourCycle on my YouTube channel.
