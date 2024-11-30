@@ -10,11 +10,11 @@ Welcome to my FPGA Project, my name is Josh Thompson. In my SoC project, I will 
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
+The set-up for this project was relatively straightforward. Firstly I imported the required files from the moodle page. Testbench was reloacted to the simulation sources where we set it as the top layer. The first simulation I carried out was on the colourCycle design, followed by the colourStripes and finally my own unique design.
 
 <img src="https://github.com/Josh-Thompson2222/FPGAProjectJT/blob/main/Screenshot%20of%20Project%20Summary.png">
 ### **Template Code**
-Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
+The first code template I used was the colourCycle design.
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
 ### **Synthesis**
