@@ -13,8 +13,14 @@ Welcome to my FPGA Project, my name is Josh Thompson. In my SoC project, I will 
 The set-up for this project was relatively straightforward. Firstly I imported the required files from the moodle page. Testbench was reloacted to the simulation sources where we set it as the top layer. The first simulation I carried out was on the colourCycle design, followed by the colourStripes and finally my own unique design.
 
 <img src="https://github.com/Josh-Thompson2222/FPGAProjectJT/blob/main/Screenshot%20of%20Project%20Summary.png">
+
 ### **Template Code**
-The first code template I used was the colourCycle design.
+VGA uses a 15-pin D-subminiature connector arranged in three rows of five pins. It supports RGB analog signals, horizontal sync (HSYNC), and vertical sync (VSYNC). The colours within the colourCycle design were programmed in 4-bit binary code. For example the colour 
+Red = R=1111, G=0000, B=0000. 
+The first code template I used was the colourCycle design. This design encompasses the full 640x480 pixel screen to display a solid colour which transitions into another colour, if programmed right. In this specific design, the clock frequency was set to change the colour of the display every 
+250 milliseconds. I set the clocks prescaler in the clock wizard within the design sources. This design was simulated using Testbench. After connecting the Basys3
+board to my monitor using a vga cable, I ran implementation and connected to the device within the hardware manager. After the Basys3 board was connected to the monitor, I programmed the board and viwed the following video on the screen. I have enclosed a link to a video demonstration of my ColourCycle on my YouTube channel.
+
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
 ### **Synthesis**
