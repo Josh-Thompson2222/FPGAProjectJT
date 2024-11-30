@@ -20,24 +20,29 @@ VGA uses a 15-pin D-subminiature connector arranged in three rows of five pins. 
 Red = R=1111, G=0000, B=0000. 
 
 The first code template I used was the colourCycle design. This design encompasses the full 640x480 pixel screen to display a solid colour which transitions into another colour, if programmed right. In this specific design, the clock frequency was set to change the colour of the display every 
-250 milliseconds. I set the clocks prescaler in the clock wizard within the design sources.  After connecting the Basys3 
-board to my monitor using a vga cable, I ran implementation and connected to the device within the hardware manager. After the Basys3 board was connected to the monitor, I programmed the board and viwed the following video on the screen. I have enclosed a link to a video demonstration of my ColourCycle on my YouTube channel.
+250 milliseconds. I set the clocks prescaler in the clock wizard within the design sources. 
+
+
+The second template design I carried out was the colourStripes design. I found this template much easier to understand than the colourCycle. The template code that I was given splits the screen into 8 equal columns, all of different colours. The screen is 640 pixels wide, divided by 8 colours. This means that each colour stripe is 80 pixels wide and 480 tall. Firstly each section is divided into it's own column, 1/8th of the total width, then the colour of the column is managed within.
+
+### **Simulation**
+This design was simulated using Testbench. Testbench was set as the top layer in our simulation sources ahead of VGATop. When the simulation is run, the Waveform Viewer opens, displaying the signals from your design and testbench. From the waveform viewer, we are able to zoom in on specific time intervals, observe input and output signal transitions and also verify if the output matches expected behavior.
+### **Synthesis**
+
+After connecting the Basys3 board to my monitor using a vga cable, I ran implementation and connected to the device within the hardware manager. After the Basys3 board was connected to the monitor, I programmed the board and viewed the following video on the screen. 
+
+### **Demonstration**
+I have enclosed a link to a video demonstration of my ColourCycle on my YouTube channel.
 
 <img src="https://github.com/Josh-Thompson2222/FPGAProjectJT/blob/main/FPGA%20SS%20ColCyc.png">
 
 Video Link: https://youtu.be/-Fbzd9G2440
 
-The second template design I carried out was the colourStripes design. I found this template much easier to understand than the colourCycle. The template code that I was given splits the screen into 8 equal columns, all of different colours. The screen is 640 pixels wide, divided by 8 colours. This means that each colour stripe is 80 pixels wide and 480 tall. Firstly each section is divided into it's own column, 1/8th of the total width, then the colour of the column is managed within. Below is a photo of the colourStripes design connected to my monitor.
 
-<img src="">
+Below is a photo of the colourStripes design connected to my monitor during a lab.
 
+<img src="https://github.com/Josh-Thompson2222/FPGAProjectJT/blob/main/IMG_7657%5B1%5D.JPG">
 
-### **Simulation**
-This design was simulated using Testbench. Testbench was set as the top layer in our simulation sources ahead of VGATop.
-### **Synthesis**
-Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
-### **Demonstration**
-Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
 ## **My VGA Design Edit**
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
