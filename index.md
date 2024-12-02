@@ -12,7 +12,7 @@ Welcome to my FPGA Project, my name is Josh Thompson. In my SoC project, I will 
 ### **Project Set-Up**
 The set-up for this project was relatively straightforward. Firstly I imported the required files from the moodle page. Testbench was reloacted to the simulation sources where we set it as the top layer. The first simulation I carried out was on the colourCycle design, followed by the colourStripes and finally my own unique design.
 
-<img src="https://github.com/Josh-Thompson2222/FPGAProjectJT/blob/main/docs/assets/images/Screenshot%20of%20Project%20Summary.png">
+<img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/blob/main/docs/assets/images/Screenshot%20of%20Project%20Summary.png">
 
 ### **Template Code**
 
