@@ -35,7 +35,7 @@ After connecting the Basys3 board to my monitor using a vga cable, I ran impleme
 ### **Demonstration**
 I have enclosed a link to a video demonstration of my ColourCycle on my YouTube channel.
 
-<img src="https://github.com/Josh-Thompson2222/FPGAProjectJT/blob/main/FPGA%20SS%20ColCyc.png">
+<img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/FPGAScreenshotColCyc.png">
 
 Video Link: https://youtu.be/-Fbzd9G2440
 
