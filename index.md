@@ -43,9 +43,8 @@ Below is a photo of the colourStripes design connected to my monitor during a la
 
 <img src="https://github.com/Josh-Thompson2222/FPGAProjectJT/blob/main/IMG_7657%5B1%5D.JPG">
 
-
 ## **My VGA Design Edit**
-Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
+My idea in this project was to edit the colourStripes file to include both columns and rows
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### **Simulation**
