@@ -42,7 +42,7 @@ Video Link: https://youtu.be/-Fbzd9G2440
 
 Below is a photo of the colourStripes design connected to my monitor during a lab.
 
-<img src="https://github.com/Josh-Thompson2222/FPGAProjectJT/blob/main/IMG_7657%5B1%5D.JPG">
+<img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/ColourStripesSS.png">
 
 ## **My VGA Design Edit**
 My idea in this project was to edit the colourStripes file to include both columns and rows
