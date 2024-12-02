@@ -39,9 +39,6 @@ I have enclosed a link to a video demonstration of my ColourCycle on my YouTube 
 
 Video Link: https://youtu.be/-Fbzd9G2440
 
-<iframe width="420" height="345" src="https://youtu.be/-Fbzd9G2440">
-</iframe>
-
 
 Below is a photo of the colourStripes design connected to my monitor during a lab.
 
