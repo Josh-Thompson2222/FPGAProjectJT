@@ -33,7 +33,7 @@ This design was simulated using Testbench. Testbench was set as the top layer in
 After connecting the Basys3 board to my monitor using a vga cable, I ran implementation and connected to the device within the hardware manager. After the Basys3 board was connected to the monitor, I programmed the board and viewed the following video on the screen. 
 
 ### **Demonstration**
-I have enclosed a link to a video demonstration of my ColourCycle on my YouTube channel.
+I have enclosed a video of my ColourCycle design running. i hav converted this from a .mov file to a .gif so it can run on github pages.
 
 <img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/FPGAScreenshotColCyc.png">
 
