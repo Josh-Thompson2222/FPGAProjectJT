@@ -60,9 +60,9 @@ My second design required a more technical breakdown as I had to determine the s
 <img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/IMG_7698%5B1%5D.jpg">
 
 ### **Simulation**
-Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
+I simulated this design using Testbench. When the simulation is run, the Waveform Viewer opens, displaying the signals from my design and testbench. From the waveform viewer, I can zoom in on specific time intervals, observe input and output signal transitions and also verify if the output matches expected behavior. In the case of simulating the Swedish flag, the output signal did match expected behaviour as predicted. 
 ### **Synthesis**
-Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+I ran synthesis on the design to ensure it was all working correctly and to provide a project summary to prove it worked before running implementation and programming my board.
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
