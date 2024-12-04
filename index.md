@@ -55,7 +55,10 @@ To edit the ColourStripes code, I simply removed some existing columns and resha
 
 <img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/ScreenshotFranceFlagFPGA.png">
 
-My second design required a more technical breakdown as I had to determine the size of each of the blue squares on the left-hand side, both above and below the yellow stripes. Secondly I worked out the size of the rectangles, above and below the horizontal yellow line on the right-hand side. From this it was easy to determine the space that was left, which would be occupied by the yellow line.  
+My second design required a more technical breakdown as I had to determine the size of each of the blue squares on the left-hand side, both above and below the yellow stripes. Secondly I worked out the size of the rectangles, above and below the horizontal yellow line on the right-hand side. From this it was easy to determine the space that was left, which would be occupied by the yellow line. I have attached a photo of my copy that I used to work out the exact dimensions the flag needed to be to fit on the VGA display.  
+
+<img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/IMG_7698%5B1%5D.jpg">
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
