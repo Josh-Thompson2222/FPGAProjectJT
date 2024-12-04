@@ -47,7 +47,9 @@ Below is a photo of the colourStripes design connected to my monitor during a la
 <img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/ColourStripesSS.png">
 
 ## **My VGA Design Edit**
-My idea in this project was to edit the colourStripes file to include both columns and rows
+My idea in this project was to edit the colourStripes file to include both columns and rows. Figuring out how to work with both columns and rows added another dimension to the complexity of my code. Before I learned how to work with rows, I only knew how to arrange columns, so my idea was to design the French flag. This was a simple design as it only took ashort amount of time to calculate the total width of the screen and divide it into three equal sections for the French flag. Once divided evenly, I just had to set the colour of each sector.
+
+My second design edit was more complex as I decided to create the Swedish flag to incorporate both columns and rows. It was fun to work out the size dimensions of the flag and incorporate that into my project to create an accurate visualistion of the flag on my own.
 ### **Code Adaptation**
 Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
 ### **Simulation**
