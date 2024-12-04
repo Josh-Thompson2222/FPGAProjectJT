@@ -55,6 +55,7 @@ To edit the ColourStripes code, I simply removed some existing columns and resha
 
 <img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/ScreenshotFranceFlagFPGA.png">
 
+My second 
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
