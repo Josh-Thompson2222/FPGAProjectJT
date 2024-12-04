@@ -52,7 +52,9 @@ My idea in this project was to edit the colourStripes file to include both colum
 My second design edit was more complex as I decided to create the Swedish flag to incorporate both columns and rows. It was fun to work out the size dimensions of the flag and incorporate that into my project to create an accurate visualistion of the flag on my own.
 ### **Code Adaptation**
 To edit the ColourStripes code, I simply removed some existing columns and reshaped the 3 remaining ones to fit the full 640 pixel screen width. I also changed the colours of the remaining columns to the blue white and red of the France flag. Below is a screenshot of the code I edited to get this design.
+
 <img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/ScreenshotFranceFlagFPGA.png">
+
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
 ### **Synthesis**
