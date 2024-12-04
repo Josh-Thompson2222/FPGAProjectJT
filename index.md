@@ -39,7 +39,7 @@ I have enclosed a link to a video demonstration of my ColourCycle on my YouTube 
 
 Video of ColourCycle
 
-<img src="">
+<img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/IMG_7630.gif">
 
 
 Below is a photo of the colourStripes design connected to my monitor during a lab.
