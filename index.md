@@ -1,6 +1,6 @@
 ---
 layout: home
-title: FPGA VGA Driver Project
+title: FPGA VGA Driver Project - Josh Thompson
 tags: fpga vga verilog
 categories: demo
 ---
