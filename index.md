@@ -66,5 +66,5 @@ I ran synthesis on the design to ensure it was all working correctly and to prov
 ### **Demonstration**
 My first complete design edit was the French flag.
 
-<img src="">
+<img src="https://raw.githubusercontent.com/Josh-Thompson2222/FPGAProjectJT/main/docs/assets/images/FrenchFlagPhoto.JPG">
 
