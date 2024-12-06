@@ -62,7 +62,9 @@ My second design required a more technical breakdown as I had to determine the s
 ### **Simulation**
 I simulated this design using Testbench. When the simulation is run, the Waveform Viewer opens, displaying the signals from my design and testbench. From the waveform viewer, I can zoom in on specific time intervals, observe input and output signal transitions and also verify if the output matches expected behavior. In the case of simulating the Swedish flag, the output signal did match expected behaviour as predicted. 
 ### **Synthesis**
-I ran synthesis on the design to ensure it was all working correctly and to provide a project summary to ensure it worked before running implementation and programming my board. Vivado reads and parses the verilog code, checking for syntax and logical errors. Synthesis optimizes the design to reduce resource usage and improve performance. After synthesis, Vivado provides an estimate of how many FPGA resources the design will use.
+I ran synthesis on the design to ensure it was all working correctly and to provide a project summary to ensure it worked before running implementation and programming my board. Vivado reads and parses the verilog code, checking for syntax and logical errors. Synthesis optimizes the design to reduce resource usage and improve performance. After synthesis, Vivado provides an estimate of how many FPGA resources the design will use. 
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+My first complete design edit was the French flag.
+
+<img src="">
 
